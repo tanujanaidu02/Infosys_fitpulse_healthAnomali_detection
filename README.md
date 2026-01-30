@@ -1,8 +1,8 @@
-# 🏥 FitPulse - Health Anomaly Detection System (Infosys Springboard)
+#  FitPulse - Health Anomaly Detection System (Infosys Springboard)
 
 An AI-powered health monitoring system designed to detect anomalies in patient vitals using Machine Learning. Developed as part of the **Infosys Springboard Internship (Batch 7)**.
 
-## 🚀 Project Overview
+##  Project Overview
 **FitPulse** is a data science solution aimed at early diagnosis and preventative healthcare. By analyzing patient health data (vitals, history, and real-time metrics), the system identifies irregular patterns ("anomalies") that may indicate potential health risks.
 
 This project was developed in **4 Strategic Milestones**, simulating a real-world software development lifecycle (SDLC).
@@ -33,7 +33,7 @@ The repository is organized into progressive milestones:
 * **Web Framework:** Streamlit / Flask (for the Dashboard)
 * **Visualization:** Matplotlib, Seaborn
 
-## 💻 How to Run
+##  How to Run
 1.  **Clone the Repository**
     ```bash
     git clone [https://github.com/tanujanaidu02/Infosys_fitpulse_healthAnomali_detection.git](https://github.com/tanujanaidu02/Infosys_fitpulse_healthAnomali_detection.git)
