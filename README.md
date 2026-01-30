@@ -7,26 +7,26 @@ An AI-powered health monitoring system designed to detect anomalies in patient v
 
 This project was developed in **4 Strategic Milestones**, simulating a real-world software development lifecycle (SDLC).
 
-## 📂 Project Structure & Milestones
+##  Project Structure & Milestones
 The repository is organized into progressive milestones:
 
-* **📁 Fitpulse_Milestone1 (Data Collection & Preprocessing):**
+* ** Fitpulse_Milestone1 (Data Collection & Preprocessing):**
     * Gathering raw health datasets and handling missing values.
     * Implementing data cleaning pipelines (`fitpulse_preprocessing.py`) to ensure data quality.
 
-* **📁 Fitpulse_Milestone2 (Feature Extraction):**
+* ** Fitpulse_Milestone2 (Feature Extraction):**
     * Analyzing correlations and selecting the most relevant health metrics.
     * Transforming raw data into meaningful features for the Machine Learning model.
 
-* **📁 Fitpulse_Milestone3 (Anomaly Detection):**
+* ** Fitpulse_Milestone3 (Anomaly Detection):**
     * Building and training the core Machine Learning models (`fitpulse_milestone2.py`).
     * Implementing algorithms to classify "Normal" vs. "Anomalous" health states.
 
-* **📁 Fitpulse_Milestone4 (Dashboard & Deployment):**
+* ** Fitpulse_Milestone4 (Dashboard & Deployment):**
     * Developing an interactive user interface using **Streamlit/Flask** (`app4.py`).
     * Visualizing real-time health data and displaying anomaly alerts for doctors/users.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python
 * **Data Processing:** Pandas, NumPy
 * **Machine Learning:** Scikit-Learn (Anomaly Detection Algorithms)
