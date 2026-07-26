@@ -297,7 +297,7 @@ with tab3:
         else:
             pdf.cell(145, 10, "No critical events found.", border=1, ln=True)
             
-        return pdf.output(dest='S').encode('latin-1')
+       return bytes(pdf.output(dest='S'))
 
     col_btn1, col_btn2 = st.columns(2)
     with col_btn1: 
