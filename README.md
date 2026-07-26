@@ -36,8 +36,8 @@ The repository is organized into progressive milestones:
 ##  How to Run
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/tanujanaidu02/Infosys_fitpulse_healthAnomali_detection.git](https://github.com/tanujanaidu02/Infosys_fitpulse_healthAnomali_detection.git)
-    cd Infosys_fitpulse_healthAnomali_detection
+    git clone [https://github.com/tanujanaidu02/Infosys_fitpulse_healthAnomaly_detection.git](https://github.com/tanujanaidu02/Infosys_fitpulse_healthAnomaly_detection.git)
+    cd Infosys_fitpulse_healthAnomaly_detection
     ```
 
 2.  **Install Dependencies**
